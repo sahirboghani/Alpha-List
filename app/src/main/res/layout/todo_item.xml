@@ -22,7 +22,7 @@
         android:lines="1"
         android:text=" "
         android:textSize="18dp"
-        android:textColor="#ff0aff00"
+        android:textColor="#4099FF"
         />
 
 </LinearLayout>

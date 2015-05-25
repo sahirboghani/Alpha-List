@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#4099FF"
+    android:id="@+id/quote_toast_layout_root"
+    >
+
+    <TextView
+        android:id="@+id/quote"
+        android:layout_width="wrap_content"
+        android:layout_height="fill_parent"
+        android:textColor="#FFFFFF"
+        android:text="test"
+        android:textSize="10dp"
+        android:padding="2dp"
+        android:layout_margin="4dp"
+        />
+
+</LinearLayout>
